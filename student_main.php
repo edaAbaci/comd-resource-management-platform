@@ -127,8 +127,11 @@ if (isset($_GET["request_item"])) {
                 <?php foreach($items as $item) :?>
                 <div class="col">
                     <div class="product">
-                        <div class="prod_img">
-                            <img src="<?=$item["image_path"]?>" alt="">
+                       <div class="prod_img">
+                            <?php
+                                $img = !empty($item["image_path"]) ? "item_images/".$item["image_path"] : "item_images/default.png";
+                            ?>
+                            <img src="<?= $img ?>" alt="<?= $item["description"] ?>">
                         </div>
                         <div class="text">
                             <div class="brand">
