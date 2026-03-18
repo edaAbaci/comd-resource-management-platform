@@ -30,6 +30,7 @@ Exported database file is included as `database.sql`.
 
 ## Notes
 - Before running the project locally, update the database credentials in `db.php`.
+- Default user passwords are set to `1234` for testing purposes
 - Email functionality is implemented using PHPMailer; credentials are replaced with placeholders for security
 - CSV upload feature allows batch insertion of items into the database
 
