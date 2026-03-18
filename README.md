@@ -20,7 +20,7 @@ A web-based management system developed for the COMD department at Bilkent Unive
 Exported database file is included as `database.sql`.
 
 ## Project Structure
-- `admin_main.php` – admin dashboard
+- `admin_main.php` – admin dashboard, user management
 - `admin_item.php` – item management
 - `chair_requests.php` – chair approval/request page
 - `functions.php` – helper functions
