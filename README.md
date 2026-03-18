@@ -33,6 +33,11 @@ Exported database file is included as `database.sql`.
 - Email functionality is implemented using PHPMailer; credentials are replaced with placeholders for security
 - CSV upload feature allows batch insertion of items into the database
 
+## Screenshots
+
+<img width="1919" height="987" alt="Ekran görüntüsü 2026-03-19 003507" src="https://github.com/user-attachments/assets/cad246f3-f6c8-4b1b-8058-c16651022d45" />
+
+
 
 ## Author
 Eda Abacıoğlu
