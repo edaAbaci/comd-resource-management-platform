@@ -37,7 +37,7 @@ Exported database file is included as `database.sql`.
 ## Screenshots
 
 <img width="1919" height="987" alt="Ekran görüntüsü 2026-03-19 003507" src="https://github.com/user-attachments/assets/cad246f3-f6c8-4b1b-8058-c16651022d45" />
-******Log in Page  (index.php)******
+                                                    *****Log in Page  (index.php)*****
 
 <img width="1899" height="985" alt="Ekran görüntüsü 2026-03-19 004055" src="https://github.com/user-attachments/assets/d946b18c-e47c-4b73-8602-63655f8c8d44" />
 
